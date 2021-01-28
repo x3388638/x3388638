@@ -23,6 +23,7 @@ I'm YY, who lives in Taiwan as a Frontend Engineer and always likes to make life
 - [PKGET](https://hackmd.io/@x3388638/SJOrobrA?type=view): Listen Pokemon appearing event on PKGET and sent notifications via Telegram bot/API
 - [RO-event-code](https://hackmd.io/@x3388638/B1pB-7j-z?type=view): Automatically generate dummy accounts to complete missions to get lots of codes against a web event/campaign of RO mobile game
 - [YahooAnswersSpamReport](https://github.com/x3388638/YahooAnswersSpamReport): One-click to report spam w/ Thanos snap animation on Yahoo Answers
+- [HistoryLogger](https://gist.github.com/x3388638/91d3b70ccc4d9419155df95b96683844): Override history.replaceState and history.pushState to log events
 
 #### App
 - [LANChat](https://github.com/x3388638/LANChat): React Native built instant messaging app based on UDP multicast and works in wireless LAN; support both Android and iOS
