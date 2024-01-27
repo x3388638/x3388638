@@ -3,7 +3,7 @@ I'm YY, who lives in Taiwan as a Frontend Engineer and always likes to make life
 
 ### Those make you lazier and something interesting
 #### Web application
-- [pov.tw](https://github.com/x3388638/pov): Pure frontend app integrated w/ Contentful (headless CMS) and GitHub Actions collects car photography and POV Driving videos to share the beauty of Taiwan
+- [pov.tw](https://github.com/x3388638/pov): A React (Next.js) app integrated w/ Contentful (headless CMS) and GitHub Actions collects car photography and POV Driving videos to share the beauty of Taiwan
 - [KeBiau](https://github.com/x3388638/KeBiau): Web application w/ friendly UI for NCNU students to arrange their courses
 - [x3388638.github.io](https://github.com/x3388638/x3388638.github.io): Personal site [2yc.tw](https://2yc.tw)
 - [github-explorer](https://github.com/x3388638/github-explorer): React SSR built site to explore repos in the GitHub world
